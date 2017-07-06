@@ -1,0 +1,2 @@
+# basiq
+BasiqCRM Emails
